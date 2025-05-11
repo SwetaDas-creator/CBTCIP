@@ -12,7 +12,6 @@ Adding more rounds.
 * Displaying score
 * Giving points based on the number of attempts.
 
-* 
 **ONLINE EXAMINATION:-**
   Functionalities:- 
   * Login
